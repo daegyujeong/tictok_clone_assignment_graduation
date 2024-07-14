@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251341250349",
+    "project_id": "my-mood-diary-asgmt",
+    "storage_bucket": "my-mood-diary-asgmt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251341250349:android:d548df6cf931d51c01fda4",
+        "android_client_info": {
+          "package_name": "com.example.tictok_clone_assignment_graduation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSB0oLKY9EVmhrmwwCZmhPDWX0Gw8XS20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
